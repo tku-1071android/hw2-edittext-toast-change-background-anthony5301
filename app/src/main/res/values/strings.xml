@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="meow">Meow!</string>
+    <string name="textview">TextView</string>
+    <string name="weight">weight</string>
+    <string name="height">height</string>
+    <string name="name">Name</string>
+</resources>
